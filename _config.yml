@@ -23,7 +23,7 @@ email: gibroski@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Simone and Rivers beautifil website! Cool stuff awaits.
 baseurl: "/riverthings" # the subpath of your site, e.g. /blog
-url: "RiverGibson21.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "rivergibson21.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: RiverGibson21
 
 # Build settings
